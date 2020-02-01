@@ -1,0 +1,27 @@
+{
+  "name": "seat-booking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdsmarketing/seat-booking-app.git"
+  },
+  "keywords": [
+    "booking",
+    "theater",
+    "booking",
+    "riley",
+    "seaburg",
+    "javascript"
+  ],
+  "author": "Riley Seaburg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdsmarketing/seat-booking-app/issues"
+  },
+  "homepage": "https://github.com/rdsmarketing/seat-booking-app#readme"
+}
